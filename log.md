@@ -4,7 +4,9 @@
 **Iniciamos el reto de 100 dias**
 
 **Meta:** Desarrollar aplicacion android.
-**Thoughts:** (Re)Aprendiendo lo basico de android, con mejores practicas, descubriendo nuevas cosas en el desarrollo de android
+
+**Thoughts:** (Re)Aprendiendo lo basico de android, con mejores practicas, descubriendo nuevas cosas en el desarrollo de android.
+
 **Link:** [Guias de Android](https://developer.android.com/training/basics/supporting-devices/platforms.html)
 
 ## Example
