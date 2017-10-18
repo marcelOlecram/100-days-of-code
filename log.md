@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 2: 17 Octubre, 2017
+
+**Meta:** Desarrollar aplicacion android.
+
+**Thoughts:** problemas siguiendo las guias oficiales, intentar buscar mas amplios y explicativos.
+
 ### Day 1: 16 Octubre, 2017
 **Iniciamos el reto de 100 dias**
 
