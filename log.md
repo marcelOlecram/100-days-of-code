@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 3: 18 Octubre, 2017
+
+**Meta:** Desarrollar aplicacion android.
+
+**Thoughts:** Hoy fue el avance muy poco, pero se intenta mantener el ritmo al menos. intentar definir la aplicacion a desarrollar
 
 ### Day 2: 17 Octubre, 2017
 
