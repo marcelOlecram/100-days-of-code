@@ -4,6 +4,8 @@
 
 **Meta**: Desarrollar aplicacion android.
 
+**Thoughts**: Decidida la aplicacion, se inicio con la pantalla principal. Se hizo un esquema simple de como iran las actividades
+
 **Nota :** 19/10/2017 se "tomo" dia descanso.
 
 ### Day 3: 18 Octubre, 2017
