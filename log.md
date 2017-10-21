@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 5: 21 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android.
+
+**Thoughts**: Se trabajo en juego proyecto a parte hecho en unity, se espera continuar ambos proyectos de manera paralela.
+
 ### Day 4: 20 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android.
 
-**Thoughts**: Decidida la aplicacion, se inicio con la pantalla principal. Se hizo un esquema simple de como iran las actividades
+**Thoughts**: Decidida la aplicacion, se inicio con la pantalla principal. Se hizo un esquema simple de como iran las actividades.
 
 **Nota :** 19/10/2017 se "tomo" dia descanso.
 
