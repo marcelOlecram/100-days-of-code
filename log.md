@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: 20 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android.
+
+**Nota :** 19/10/2017 se "tomo" dia descanso.
+
 ### Day 3: 18 Octubre, 2017
 
 **Meta:** Desarrollar aplicacion android.
