@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 6: 22 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Se trabaja el esquema basico de las activitys, todavia nada funcional, solo pantallas.
 
 ### Day 5: 21 Octubre, 2017
 
