@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: 23 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: estaria casi todas las pantallas necesarias. se necesita cargar la info del juego (de los monstruos)
+
 ### Day 6: 22 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
