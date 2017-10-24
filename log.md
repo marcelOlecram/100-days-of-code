@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 8: 24 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: implemente la lectura de archivos (pero solo de txt deberia convertirlo a JSON o algo mas estructrado), ahora necesito crear la info del juego
+
 ### Day 7: 23 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
