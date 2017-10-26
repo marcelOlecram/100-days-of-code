@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: 26 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: ya dearrolle un esquema basico de los monstruos para arkham horror, tambien cree un plantilla en JSON.
+Lo siguiente seria convertir la info en JSON y ordenarla /procesarala adecuadamente
+
+
 ### Day 9: 25 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
