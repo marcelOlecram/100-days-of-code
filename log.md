@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: 25 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: hoy trabaje en el juego en unity, en sintesis dia a aparte
+
 ### Day 8: 24 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
