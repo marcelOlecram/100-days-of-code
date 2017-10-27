@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: 27 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: mucho problema con conversion de la informacion de JSON a las clases personalizadas, pero se logro al final, almenos basicamente
+
 ### Day 10: 26 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
