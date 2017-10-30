@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 12: 30 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya comprendo un poco mejor la librearia jackson para la informacion JSON. Se que no segui el desafio  el 28/29 de Oct, pero yo avanzare a mi ritmo.  
+Ya implementare la logica del juego, todavia sin interfaz.
+
 ### Day 11: 27 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
