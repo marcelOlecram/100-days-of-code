@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 13: 31 Octubre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya implemente la logica del juego, aunque por ahora solo es visible por textview, ahora debo crear listview para desplegar a los monstruos.
+
 ### Day 12: 30 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
