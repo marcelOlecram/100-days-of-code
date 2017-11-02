@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 14: 1 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya comprendo los listviews, personalizados, ahora debo agregar funcionalidad a la lista
+
 ### Day 13: 31 Octubre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
