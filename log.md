@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: 3 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Espero una guia de StackOverflow para el solucionar la eliminacion del monstruo del list view
+
+### Day 15: 2 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Logre crear listview para monstruos en juego, debo ahora mantener una referencia a los monstruos en la lista.
 
 ### Day 14: 1 Noviembre, 2017
 
