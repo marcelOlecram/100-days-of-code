@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: 4 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Solucione mi problema con los listview, en si la app estaria CASI funcional
+Ahora falta:
+* Mantener los objetos y la informacion si cambio de app o la termino la app, o navego al inicio de la app.
+* Obtener la informacion de todos los monstruos - JSON
+* Pensar en casos especiales (reglas especiales del juego)
+* Empezar a pulir la interfaz, (tema lovecraftiano?)
+
 ### Day 16: 3 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
