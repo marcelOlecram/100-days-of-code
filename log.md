@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: 8 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya estoy trabajando con la persistencia de datos. ahora puedo determinar si un archivo existe al momento de crear un juego.
+
 ### Day 18: 7 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
