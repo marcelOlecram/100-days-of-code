@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: 7 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya esta toda la informacion (texto) de los monstruos de Arkham. sin monstruos mascaras. Lo siguiente seria en mantener la informacion mientras navegas.
+
 ### Day 17: 6 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
