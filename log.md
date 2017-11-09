@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: 9 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya se considera la busqueda de un archivo para comprobar si existe un juego anterior., solo falta implementarlo.
+
 ### Day 19: 8 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
