@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: 10 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya se crea o carga el juego. Ahora debo implementar la lectura del archivo si existe, su escritura y las conversiones de juego a JSON y viceversa.
+
 ### Day 20: 9 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
