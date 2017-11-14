@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 22: 14 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Error al cargar el archivo de monstruos, cuando se decide cargar el juego. se debe corregir.
+
 ### Day 21: 10 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
