@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: 15 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya se puede cargar la informacion de otra partida, no se pierde la info.
+
+* Por ahora no usar el juego eldritch
+* Poder Generar un monstruo especifico
+* Pensar en la estetica
+* Ver la legalidad de los archivos, cargar imagenes
+
+
 ### Day 22: 14 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
