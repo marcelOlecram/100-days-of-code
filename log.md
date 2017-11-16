@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 24: 16 Noviembre, 2017
+
+**Meta**: Desarrollar aplicacion android - Monster Generator.
+
+**Thoughts**: Ya se puede generar un monstruo especificamente en el juego, ademas de forma aleatoria.
+
+* Ahora a trabajar en la parte estetica y legal
+
+
 ### Day 23: 15 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
