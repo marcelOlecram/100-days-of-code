@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 24: 16 Noviembre, 2017
+
+**Meta**: Desarrollo del proyecto a la par, juego en unity
+
+**Thoughts**: En lo que concierne a la aplicacion en android ahora solo es cuestion de la legalidad y estetica
+
 ### Day 24: 16 Noviembre, 2017
 
 **Meta**: Desarrollar aplicacion android - Monster Generator.
