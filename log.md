@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 24: 16 Noviembre, 2017
+### Day 25: 17 Noviembre, 2017
 
 **Meta**: Desarrollo del proyecto a la par, juego en unity
 
