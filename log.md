@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 26: 21 Noviembre, 2017
+
+**Meta**: Aplicacion para el tema de las ferias...
+
+**Thoughts**: frustradisimo con el tema de navigation drawer...
+
 ### Day 25: 17 Noviembre, 2017
 
 **Meta**: Desarrollo del proyecto a la par, juego en unity
