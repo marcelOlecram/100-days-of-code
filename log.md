@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 27: 22 Noviembre, 2017
+
+**Meta**: Aplicacion para el tema de las ferias...
+
+**Thoughts**: emepezando a trabajar en la app para la feria, en pausa monser generator
+
 ### Day 26: 21 Noviembre, 2017
 
 **Meta**: Aplicacion para el tema de las ferias...
