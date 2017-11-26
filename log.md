@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 27: 26 Noviembre, 2017
 
+**Meta**: Aplicacion para el tema de las ferias...
+
+**Thoughts**: puse splash screen en la app, en pausa monser generator
 
 ### Day 27: 22 Noviembre, 2017
 
