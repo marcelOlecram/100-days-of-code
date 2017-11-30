@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 30: 30 Noviembre, 2017
+
+**Meta**: Aplicacion Monster Generator
+
+**Thoughts**: ajustes de formato 
+
+### Day 29: 29 Noviembre, 2017
+
+**Meta**: Aplicacion para el tema de las ferias...
+
+**Thoughts**: ajuste las expandables list views en el tema falta un esquema para el formato de las listas
+
+### Day 28: 28 Noviembre, 2017
+
+**Meta**: Aplicacion para el tema de las ferias...
+
+**Thoughts**: Trabaje en las expandale listviews
+
 ### Day 27: 26 Noviembre, 2017
 
 **Meta**: Aplicacion para el tema de las ferias...
